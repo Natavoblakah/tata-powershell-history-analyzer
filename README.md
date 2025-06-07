@@ -1,4 +1,4 @@
-# PowerShellConsoleHostHistoryAnalyzer
+# tata-powershell-history-analyzer
 
 Все команды, которые вводятся в консоли PowerShell, записываются в текстовый лог-файл «ConsoleHost_history.txt».  
 Расположение данного файла в ОС Windows:  
